@@ -43,7 +43,7 @@ import java.util.Scanner;
 	                 a = scan.nextFloat();
 	                 b = scan.nextFloat();
 	                 res = a / b;
-	                 System.out.print("Result = " + res);
+	                 System.out.print("Your Result = " + res);
 	                 break;
 	 
 	      case '5' : System.exit(0);
